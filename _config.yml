@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nix Flatiron SE Website
+title: Nix Flatiron School SE Website
 email: nick.landas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Courtesy of the Flatiron School - See my trials, successes, and errors
   here as I journey on this 15-week bootcamp odyssey
   from a 20-yr career in law enforcement to a career 
   in software engineering. I share my thoughts, insights, and projects along the way!
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mobilenicky
 github_username:  nick-landas
